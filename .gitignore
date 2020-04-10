@@ -3,3 +3,8 @@
 .nrepl-port
 .rebel_readline_history
 lets-record.iml
+.classpath
+.project
+.settings/
+target/
+*.jar
