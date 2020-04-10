@@ -3,6 +3,7 @@
 Provides the letr form to record all symbol bindings in an atom.
 
 [![Clojars Project](https://img.shields.io/clojars/v/lets-record.svg)](https://clojars.org/lets-record)
+![CI](https://github.com/p14n/lets-record/workflows/CI/badge.svg)
 
 ## Why?
 
