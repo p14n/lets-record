@@ -8,7 +8,7 @@
   <scm>
     <connection>scm:git:git://github.com/p14n/lets-record.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/p14n/lets-record.git</developerConnection>
-    <tag></tag>
+    <tag>v0.1.0</tag>
     <url>https://github.com/p14n/lets-record</url>
   </scm>  
   <dependencies>
