@@ -10,6 +10,6 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/tools.deps-builder@v1.0.0
+      - uses: vouch-opensource/tools.deps-build@1.0.1
         with:
           alias: :test
