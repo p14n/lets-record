@@ -3,12 +3,12 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>lets-record</groupId>
   <artifactId>lets-record</artifactId>
-  <version>0.1.0</version>
+  <version>0.2.0</version>
   <name>lets-record</name>
   <scm>
     <connection>scm:git:git://github.com/p14n/lets-record.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/p14n/lets-record.git</developerConnection>
-    <tag>v0.1.0</tag>
+    <tag>v0.2.0</tag>
     <url>https://github.com/p14n/lets-record</url>
   </scm>  
   <dependencies>
